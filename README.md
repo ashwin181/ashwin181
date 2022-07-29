@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on AI for Water Quality Management under Center for Coastal Solutions, University of Florida
 - 🌱 I’m currently learning Big Data Processing
-- :books: Currently, I am doing my Masters in Computer Science from the University of Florida. I did my undergraduate from Indian Institute of Technology (IIT), Bombay
+- :books: Currently, I am doing my Masters in Computer Science from the University of Florida. I did my undergraduate from [IIT Bombay](https://www.iitb.ac.in/)
 - 💬 Ask me about Machine Learning, Java, Spring Boot, Reactive Programming, GraphQL, RabbitMQ
 - :office: I have (3+ years) as a software engineer working in the financial services company building micro services and Restful API's
 - 📫 If you would like to discuss full-time opportunities in backend development or machine learning engineering with me, feel free to reach out at raiashwin018@gmail.com || raiashwin@ufl.edu. I'm looking for full time opportunities starting in 2023
