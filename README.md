@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Big Data Processing
 - :books: Currently, I am doing my Masters in Computer Science from the University of Florida. I did my undergraduate from Indian Institute of Technology (IIT), Bombay
 - 💬 Ask me about Machine Learning, Java, Spring Boot, Reactive Programming, GraphQL, RabbitMQ
-- :office: I have software experience (3+ years) working in the financial services company building scalable and no-code backend services and Restful API's
+- :office: I have (3+ years) as a software engineer working in the financial services company building micro services and Restful API's
 - 📫 If you would like to discuss full-time opportunities in backend development or machine learning engineering with me, feel free to reach out at raiashwin018@gmail.com || raiashwin@ufl.edu. I'm looking for full time opportunities starting in 2023
 - ⚡ Fun fact: Become comfortable with the uncomfortable
 
