@@ -5,6 +5,7 @@
 
 ## About me
 
+- Resume Link: [Resume](https://drive.google.com/file/d/1ZjVFgpo0Ox4KDE24J047Nc23NFxHGlLQ/view?usp=sharing)
 - 😄 Pronouns: He/Him
 - :books: Currently, I am doing my Masters in Computer Science from the University of Florida. I did my undergrad from [IIT Bombay](https://www.iitb.ac.in/)
 - 🔭 I’m currently working on AI for Water Quality Management under Center for Coastal Solutions, University of Florida
