@@ -5,14 +5,12 @@
 
 ## About me
 
-- Resume Link: [Resume](https://drive.google.com/file/d/1ZjVFgpo0Ox4KDE24J047Nc23NFxHGlLQ/view?usp=sharing)
 - 😄 Pronouns: He/Him
-- :books: Currently, I am doing my Masters in Computer Science from the University of Florida. I did my undergrad from [IIT Bombay](https://www.iitb.ac.in/)
+- :books: Currently, I am doing my Masters in Computer Science from the University of Florida.
 - 🔭 I’m currently working on AI for Water Quality Management under Center for Coastal Solutions, University of Florida
 - 🌱 I’m currently learning Big Data Processing
 - 💬 Ask me about Machine Learning, Java, Spring Boot, Reactive Programming, GraphQL, RabbitMQ
 - :office: I have (3+ years) as a software engineer working in the financial services company building micro services and Restful API's
-- 📫 If you would like to discuss full-time opportunities in backend development or machine learning engineering with me, feel free to reach out at raiashwin018@gmail.com || raiashwin@ufl.edu. I'm looking for full time opportunities starting in 2023
 - ⚡ Fun fact: Become comfortable with the uncomfortable
 
 ## Activity
