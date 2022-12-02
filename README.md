@@ -9,8 +9,6 @@
 - :books: Currently, I am doing my Masters in Computer Science from the University of Florida.
 - 🔭 I’m currently working on AI for Water Quality Management under Center for Coastal Solutions, University of Florida
 - 🌱 I’m currently learning Big Data Processing
-- 💬 Ask me about Machine Learning, Java, Spring Boot, Reactive Programming, GraphQL, RabbitMQ
-- :office: I have (3+ years) as a software engineer working in the financial services company building micro services and Restful API's
 - ⚡ Fun fact: Become comfortable with the uncomfortable
 
 ## Activity
